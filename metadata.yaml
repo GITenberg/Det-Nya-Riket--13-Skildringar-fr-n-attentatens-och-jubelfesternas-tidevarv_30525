@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30525#Det-Nya-Riket--13-Skildringar-fr-n-attentatens-och-jubelfesternas-tidevarv
 gutenberg_issued: '2009-11-21'
 gutenberg_type: Text
 identifiers:
